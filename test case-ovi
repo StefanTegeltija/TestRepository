@@ -1,0 +1,161 @@
+# AleaTestTask
+Test task for Alea Control
+1.
+1) Ucitati https://www.phptravels.net/ i verifikovati da je stranica pravilno ucitana
+2) Otvoriti stranicu za registraciju i verifikovati da je stranica pravilno ucitana
+3) Unijeti sve validne podatke:
+a. First Name: ProizvoljnoIme
+b. Last Name: ProizvoljnoPrezime
+c. Mobile Number: ProizvoljanBrojTelefona
+d. Email: ProizvoljanEMail
+e. Password: ProizvoljanPassword
+4) Kliknuti na Sign Up dugme
+5) Prilikom upisa login podataka cekirati “Remeber Me”
+5) Verifikacija da je korisnik uspješno registrovan i da mu je prikazana stranica za
+prikaz ličnih podataka, sa njegovim punim imenom i prezimenom.
+
+2.
+1) Ucitati https://www.phptravels.net/ i verifikovati da je stranica pravilno ucitana
+2) Otvoriti stranicu za registraciju i verifikovati da je stranica pravilno ucitana 
+3) Unijeti sve validne podatke:
+a. First Name: ProizvoljnoIme
+b. Last Name: ProizvoljnoPrezime
+c. Mobile Number: ProizvoljanBrojTelefona
+d. Email: ProizvoljanEMail
+e. Password: ProizvoljanPassword
+4) Kliknuti na Sign Up dugme
+5) Verifikacija da je korisnik uspješno registrovan i da mu je prikazana stranica za
+prikaz ličnih podataka, sa njegovim punim imenom i prezimenom.
+
+3.
+1) Ucitati https://www.phptravels.net/ i verifikovati da je stranica pravilno ucitana
+2) Otvoriti stranicu za registraciju i verifikovati da je stranica pravilno ucitana 
+3) Unijeti sve validne podatke:
+a. First Name: ProizvoljnoIme
+b. Last Name: ProizvoljnoPrezime
+c. Mobile Number: ProizvoljanBrojTelefona
+d. Email: ProizvoljanEMail
+e. Password: ProizvoljanPassword
+g. AccountType: Supplier
+4) Kliknuti na Sign Up dugme
+5) Verifikacija da je korisnik uspješno registrovan i da mu je prikazana stranica za
+prikaz ličnih podataka, sa njegovim punim imenom i prezimenom.
+
+4.
+1) Ucitati https://www.phptravels.net/ i verifikovati da je stranica pravilno ucitana
+2) Otvoriti stranicu za registraciju i verifikovati da je stranica pravilno ucitana 
+3) Unijeti sve validne podatke:
+a. First Name: ProizvoljnoIme
+b. Last Name: ProizvoljnoPrezime
+c. Mobile Number: ProizvoljanBrojTelefona
+d. Email: ProizvoljanEMail
+e. Password: ProizvoljanPassword
+g. AccountType: Agent
+4) Kliknuti na Sign Up dugme
+5) Verifikacija da je korisnik uspješno registrovan i da mu je prikazana stranica za
+prikaz ličnih podataka, sa njegovim punim imenom i prezimenom.
+
+5.
+1) Ucitati https://www.phptravels.net/ i verifikovati da je stranica pravilno ucitana
+2) Otvoriti stranicu za registraciju i verifikovati da je stranica pravilno ucitana
+3) Ne unositi nikakve podatke
+4) Kliknuti na Sign Up dugme
+5) Verifikacija da je korisnik dobio odgovarajucu poruku za praznu formu
+
+6.
+1) Ucitati https://www.phptravels.net/ i verifikovati da je stranica pravilno ucitana
+2) Otvoriti stranicu za registraciju i verifikovati da je stranica pravilno ucitana 
+3) 
+a. First Name: Ostaviti prazno
+b. Last Name: ProizvoljnoPrezime
+c. Mobile Number: ProizvoljanBrojTelefona
+d. Email: ProizvoljanEMail
+e. Password: ProizvoljanPassword
+4) Kliknuti na Sign Up dugme
+5) Verifikacija da je korisnik dobio odgovarajucu poruku za prazno firstname polje
+
+
+7.
+1) Ucitati https://www.phptravels.net/ i verifikovati da je stranica pravilno ucitana
+2) Otvoriti stranicu za registraciju i verifikovati da je stranica pravilno ucitana 
+3) 
+a. First Name: ProizvoljnoIme
+b. Last Name: Ostaviti prazno
+c. Mobile Number: ProizvoljanBrojTelefona
+d. Email: ProizvoljanEMail
+e. Password: ProizvoljanPassword
+4) Kliknuti na Sign Up dugme
+5) Verifikacija da je korisnik dobio odgovarajucu poruku za prazno lastname polje
+
+8.
+1) Ucitati https://www.phptravels.net/ i verifikovati da je stranica pravilno ucitana
+2) Otvoriti stranicu za registraciju i verifikovati da je stranica pravilno ucitana 
+3) 
+a. First Name: ProizvoljnoIme
+b. Last Name: ProizvoljnoPrezime
+c. Mobile Number: Ostaviti prazno
+d. Email: ProizvoljanEMail
+e. Password: ProizvoljanPassword
+4) Kliknuti na Sign Up dugme
+5) Verifikacija da je korisnik dobio odgovarajucu poruku za prazno phone number polje
+
+9.
+1) Ucitati https://www.phptravels.net/ i verifikovati da je stranica pravilno ucitana
+2) Otvoriti stranicu za registraciju i verifikovati da je stranica pravilno ucitana 
+3) 
+a. First Name: ProizvoljnoIme
+b. Last Name: ProizvoljnoPrezime
+c. Mobile Number: ProizvoljanBrojTelefona
+d. Email:Ostaviti prazno
+e. Password: ProizvoljanPassword
+4) Kliknuti na Sign Up dugme
+5) Verifikacija da je korisnik dobio odgovarajucu poruku za prazno email polje
+
+10.
+1) Ucitati https://www.phptravels.net/ i verifikovati da je stranica pravilno ucitana
+2) Otvoriti stranicu za registraciju i verifikovati da je stranica pravilno ucitana 
+3) 
+a. First Name: ProizvoljnoIme
+b. Last Name: ProizvoljnoPrezime
+c. Mobile Number: ProizvoljanBrojTelefona
+d. Email:ProizvoljanEMail
+e. Password: Ostaviti prazno
+4) Kliknuti na Sign Up dugme
+5) Verifikacija da je korisnik dobio odgovarajucu poruku za prazno password polje
+
+11.
+1) Ucitati https://www.phptravels.net/ i verifikovati da je stranica pravilno ucitana
+2) Otvoriti login stranicu
+3) Bez prethodnog unosenja podataka u polja email i password kliknuti na “Login” button
+4) Provjeriti da li je prikazana odgovarajuca poruka o gresci 
+5) Vratiti se na index stranicu
+
+
+
+12.
+1) Ucitati https://www.phptravels.net/ i verifikovati da je stranica pravilno ucitana
+2) Otvoriti login stranicu
+3) Polje email ostavi prazno
+3) Unesi password
+4) Klikni na Login button
+5) Provjeriti da li je prikazana odgovarajuca poruka o gresci 
+6) Vratiti se na index stranicu
+
+13.
+1) Ucitati https://www.phptravels.net/ i verifikovati da je stranica pravilno ucitana
+2) Otvoriti login stranicu
+3) Unesi email
+3) Polje password ostavi prazno
+4) Klikni na Login button
+5) Provjeriti da li je prikazana odgovarajuca poruka o gresci 
+6) Vratiti se na index stranicu
+
+14.
+1) Ucitati https://www.phptravels.net/ i verifikovati da je stranica pravilno ucitana
+2) Otvoriti login stranicu
+3) Unesi random email
+3) Unesi random password
+4) Klikni na Login button
+5) Provjeriti da li je prikazana odgovarajuca poruka o gresci tj Wrong credentials error
+6) Vratiti se na index stranicu
+
